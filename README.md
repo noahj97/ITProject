@@ -1,8 +1,5 @@
-# ITProject
 <html>
-<head>
-<title>Page Title</title>
-</head>
+
 <body>
 
 <h3 style="background-color:DodgerBlue;">Noah Etherington IT Project</h3> 

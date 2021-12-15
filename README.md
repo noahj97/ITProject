@@ -4,8 +4,9 @@
 <title>Page Title</title>
 </head>
 <body>
- 
-<h3>My Project</h3>
+
+<h3 style="background-color:DodgerBlue;">Noah Etherington IT Project</h3> 
+
 <h4 style="text-align:center;">“TASPS”</h4>
 <p style="text-align:center;">TASPS is a name for an idea I have had for many years. The idea of going out on an unmarked or trackless bushwalk may seem daunting for a lot of people and I do not blame them. But what if they could easily see their surroundings on their smart device and using an application, plan a route regardless of if there is a track or not. Using data such as satellite imaging and topography mapping TASGPS would combine the 2 and use AI to plan the most effective yet safe route to the walker and flora.</p>
 <p style="text-align:center;">In the modern world, it is estimated that around 6-7 billion smartphones exist and the technology on these devices is only getting better with time. One of the features that have found its way onto mobile devices is accurate GPS (Global Positioning Systems) without any data or cellular signal. This feature in collection with cameras that give DSLR cameras a run for their money and evolving battery technology makes mobile phones a great device to use in the outdoors.</p>

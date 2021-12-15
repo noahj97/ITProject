@@ -3,7 +3,7 @@
 <body>
 
 <header>
- <h2 style="text-align:center;background-color:DodgerBlue;">Noah Etherington IT Project</h2>
+ <h2 style="text-align:center;background-color:Gold;">Noah Etherington IT Project</h2>
 </header>
 
 <h4 style="text-align:center;">“TASPS”</h4>

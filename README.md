@@ -17,7 +17,7 @@
 <p style="text-align:center;">Whilst people like myself admire the challenge of bush bashing and discovery some people may want a more laid out and accessible experience. This is where I believe TASPS could be a viable app in the future for those wanting a more remote adventure experience without needing years of mapping experience. It would give experienced walkers more direct routes whilst also supplying peace of mind for less experienced walkers.</p>
 
  
-<img src="logo.jpg" alt="TASPS LOGO IDEA">
+<img src="tasps.jpg" alt="TASPS LOGO IDEA">
 
  </body>
 </html>

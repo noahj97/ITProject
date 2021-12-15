@@ -2,14 +2,6 @@
 
 <body>
 
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
-
 <header>
   <h2>Noah Etherington IT Project</h2>
 </header>

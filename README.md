@@ -2,7 +2,7 @@
 
 <body>
 
-<h3 style="text-align:cener;">Noah Etherington IT Project</h3> 
+<h3>Noah Etherington IT Project</h3> 
 
 <h4 style="text-align:center;">“TASPS”</h4>
 <p style="text-align:center;">TASPS is a name for an idea I have had for many years. The idea of going out on an unmarked or trackless bushwalk may seem daunting for a lot of people and I do not blame them. But what if they could easily see their surroundings on their smart device and using an application, plan a route regardless of if there is a track or not. Using data such as satellite imaging and topography mapping TASGPS would combine the 2 and use AI to plan the most effective yet safe route to the walker and flora.</p>
@@ -16,7 +16,10 @@
 <p style="text-align:center;">But to achieve this idea, I am going to have to gain a mass knowledge of software development and AI (Artificial Intelligence) creation which I hope to achieve at the end of my learning. This would include being fluent in many languages but focusing on Python for my AI and machine learning. Python in its current build is the go-to for beginner AI programmers with many online tutorials and classes to learn from. In conjunction with fluidity in programming languages, I would have to become familiar with application development tools to pair my code and data with.</p>
 <p style="text-align:center;">Whilst people like myself admire the challenge of bush bashing and discovery some people may want a more laid out and accessible experience. This is where I believe TASPS could be a viable app in the future for those wanting a more remote adventure experience without needing years of mapping experience. It would give experienced walkers more direct routes whilst also supplying peace of mind for less experienced walkers.</p>
 
-</body>
+ 
+<img src="logo.jpg" alt="TASPS LOGO IDEA">
+
+ </body>
 </html>
 
 
